@@ -1,0 +1,52 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-03-26 11:43:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 11:44:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 12:23:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 12:32:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 12:38:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 12:41:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 12:44:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 12:46:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 12:50:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 12:58:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 13:03:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 13:08:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 13:09:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 13:11:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 13:13:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 13:14:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 13:14:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 13:14:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 13:14:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 13:19:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 15:52:37 --> 404 Page Not Found: Uploadphp/index
+ERROR - 2017-03-26 15:52:43 --> 404 Page Not Found: Uploadphp/index
+ERROR - 2017-03-26 15:53:19 --> 404 Page Not Found: Uploadphp/index
+ERROR - 2017-03-26 15:53:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 15:53:23 --> 404 Page Not Found: Uploadphp/index
+ERROR - 2017-03-26 15:53:39 --> 404 Page Not Found: Uploadphp/index
+ERROR - 2017-03-26 15:54:06 --> 404 Page Not Found: Uploadphp/index
+ERROR - 2017-03-26 15:55:22 --> 404 Page Not Found: Uploadphp/index
+ERROR - 2017-03-26 15:55:26 --> 404 Page Not Found: Uploadphp/index
+ERROR - 2017-03-26 15:56:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 16:05:02 --> 404 Page Not Found: Uploadfile/.temp
+ERROR - 2017-03-26 16:05:08 --> 404 Page Not Found: Uploadfile/.TestDemo.txt
+ERROR - 2017-03-26 16:05:25 --> 404 Page Not Found: Uploadfile/.temp
+ERROR - 2017-03-26 16:05:35 --> 404 Page Not Found: Uploadfile/.temp
+ERROR - 2017-03-26 16:05:57 --> 404 Page Not Found: Uploadfile/.temp
+ERROR - 2017-03-26 16:06:00 --> 404 Page Not Found: Uploadfile/.temp
+ERROR - 2017-03-26 16:10:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 18:02:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-26 18:11:04 --> 404 Page Not Found: Scripts/require.js
+ERROR - 2017-03-26 18:11:04 --> 404 Page Not Found: Scripts/require.js
+ERROR - 2017-03-26 18:11:12 --> 404 Page Not Found: Scripts/require.js
+ERROR - 2017-03-26 18:11:43 --> 404 Page Not Found: Scripts/require.js
+ERROR - 2017-03-26 18:11:47 --> 404 Page Not Found: Scripts/require.js
+ERROR - 2017-03-26 18:11:50 --> 404 Page Not Found: Scripts/require.js
+ERROR - 2017-03-26 18:12:22 --> 404 Page Not Found: Scripts/require.js
+ERROR - 2017-03-26 18:14:51 --> Query error: Erreur de syntaxe près de 'decimal(10,2) int(11)' à la ligne 1 - Invalid query: alter table t_aci_school  change  SchoolArea  decimal(10,2) int(11)
+ERROR - 2017-03-26 18:15:01 --> Query error: Erreur de syntaxe près de 'decimal(10,2) int(11)' à la ligne 1 - Invalid query: alter table t_aci_school  change  SchoolArea  decimal(10,2) int(11)
+ERROR - 2017-03-26 18:15:13 --> 404 Page Not Found: Scripts/adminpanel
+ERROR - 2017-03-26 18:15:36 --> 404 Page Not Found: Scripts/adminpanel
+ERROR - 2017-03-26 18:23:10 --> 404 Page Not Found: Faviconico/index
